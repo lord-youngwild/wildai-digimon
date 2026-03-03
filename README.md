@@ -3,7 +3,7 @@
 **소버린 AI 에이전트** — 로컬 LLM + 클라우드 하이브리드
 
 DGX Spark GB10에서 Qwen3.5-35B-A3B를 vLLM으로 구동하고,
-OpenClaw OS와 연결하는 프로젝트입니다.
+OpenClaw AX-OS와 연결하는 프로젝트입니다.
 
 ## 아키텍처
 ```
@@ -103,9 +103,3 @@ chmod +x ~/digimon-start.sh
 
 MIT
 EOF
-# wildai-digimon
-# wildai-digimon
-# wildai-digimon
-# wildai-digimon
-# wildai-digimon
-# wildai-digimon
